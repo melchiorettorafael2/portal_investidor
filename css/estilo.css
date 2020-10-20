@@ -1,0 +1,11 @@
+/* HEIGHT 100% */
+html, body {height: 100%;}
+
+
+ HOME 
+.home {background-image: url('../img/Klaus_bg.png'); background-repeat: no-repeat; background-size: cover;}
+
+
+footer p a {
+	margin: 5px 15px;
+}
